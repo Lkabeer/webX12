@@ -1,5 +1,5 @@
 $bg-colorX: red;
-$bg-imageX: "../assets/p5.jpg";
+$bg-imageX: "../assets/P5.jpg";
 
 @mixin bgImageX($bgImage) {
     background-image: url($bg-imageX);
